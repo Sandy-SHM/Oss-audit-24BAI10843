@@ -1,9 +1,7 @@
-# Oss-audit-24BAI10843
-The main goal of this project is to gain a deep understanding of both the theoretical concepts and practical applications of open-source software, emphasizing its significance in contemporary computing environments.
 # Open Source Audit Project
 
 ## Student Details
-- Name: Sandesh Sharad Mane (24BAI10843)
+- Name: Sandesh Sharad Mane(24BAI10843)
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
@@ -13,6 +11,9 @@ Git (Distributed Version Control System)
 ## Project Description
 This project is centered on exploring Git as an open-source software tool. It provides a comprehensive examination of its history, licensing model, ecosystem, and a comparative analysis with proprietary alternatives. The project also incorporates hands-on exercises using Linux shell scripting to demonstrate practical skills with open-source tools and system operations.
 
+The main goal of this project is to gain a deep understanding of both the theoretical concepts and practical applications of open-source software, emphasizing its significance in contemporary computing environments.
+
+## Scripts Overview
 
 ### Script 1: System Information Reporter
 This script retrieves and displays essential system details, including the kernel version, current user, system uptime, date, and the Linux distribution in use.
@@ -32,7 +33,7 @@ This script allows users to generate a personalized open-source manifesto by col
 ## How to Run the Scripts
 
 ### Step 1: Make Scripts Executable
-'''bash
+```bash
 chmod +x script1.sh
 chmod +x script2.sh
 chmod +x script3.sh
